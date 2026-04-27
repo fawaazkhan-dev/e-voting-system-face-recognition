@@ -60,15 +60,6 @@ The system combines biometric authentication (face recognition) with OTP verific
 3. User casts vote securely
 4. Vote is stored in SQL database
 
-## 📸 Screenshots
-
-![Login](screenshots/login_recog_face_first.png)
-![Registration](screenshots/capfacefirst.png)
-![Admin Dashboard](screenshots/admin_panel.png)
-![User Dashboard](screenshots/user_panel.png)
-![Adding Candidates](screenshots/candidates_added.png)
-![Voting Screen](screenshots/voting_screen1.png)
-
 ## 🔧 Future Improvements
 - Cloud deployment
 - Improved face recognition accuracy
