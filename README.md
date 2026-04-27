@@ -3,7 +3,7 @@
 A secure mobile voting application designed to ensure safe and reliable voting using modern authentication techniques.
 
 ## ⚙️ Requirements
-- Python 3.x / Flutter
+- Python 3.x (Anaconda) / Flutter
 - MySQL
 - IDE (VS Code, Android Studio, etc.)
 
