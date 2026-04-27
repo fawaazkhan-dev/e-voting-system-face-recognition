@@ -54,6 +54,12 @@ This project was developed as part of my final year dissertation. It focuses on 
 
 The system combines biometric authentication (face recognition) with OTP verification to improve security and reduce fraud.
 
+## 🔄 How It Works
+1. User logs in using face recognition
+2. OTP verification is triggered
+3. User casts vote securely
+4. Vote is stored in SQL database
+
 ## 🔧 Future Improvements
 - Cloud deployment
 - Improved face recognition accuracy
