@@ -35,8 +35,7 @@ A secure mobile voting application designed to ensure safe and reliable voting u
 ### Notes
 - Ensure Python and Flutter are installed
 - Database (SQL) must be configured correctly
-
-  ---
+---
 
 ## 🚀 Features
 - Face recognition login system
