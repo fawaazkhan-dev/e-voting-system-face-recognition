@@ -19,7 +19,7 @@ A secure mobile voting application designed to ensure safe and reliable voting u
 3. Run the Flask server:
    python app.py
 
----
+
 
 ### Frontend (Flutter)
 1. Navigate to frontend folder:
@@ -31,11 +31,12 @@ A secure mobile voting application designed to ensure safe and reliable voting u
 3. Run the app:
    flutter run
 
----
 
 ### Notes
 - Ensure Python and Flutter are installed
 - Database (SQL) must be configured correctly
+
+  ---
 
 ## 🚀 Features
 - Face recognition login system
