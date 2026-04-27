@@ -63,4 +63,4 @@ The system combines biometric authentication (face recognition) with OTP verific
 ## 🔧 Future Improvements
 - Cloud deployment
 - Improved face recognition accuracy
-- Admin dashboard
+
